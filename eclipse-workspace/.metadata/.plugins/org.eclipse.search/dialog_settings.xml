@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SearchDialog">
+		<item key="PREVIOUS_PAGE" value="org.eclipse.search.internal.ui.text.TextSearchPage"/>
+	</section>
+	<section name="Search">
+		<list key="Search.processedPageIds">
+			<item value="org.eclipse.search.internal.ui.text.TextSearchPage"/>
+			<item value="org.eclipse.mylyn.tasks.ui.search.page"/>
+			<item value="org.eclipse.egit.ui.commitSearchPage"/>
+			<item value="org.eclipse.jdt.ui.JavaSearchPage"/>
+			<item value="org.eclipse.pde.internal.ui.search.SearchPage"/>
+		</list>
+		<list key="Search.enabledPageIds">
+			<item value="org.eclipse.search.internal.ui.text.TextSearchPage"/>
+			<item value="org.eclipse.mylyn.tasks.ui.search.page"/>
+			<item value="org.eclipse.egit.ui.commitSearchPage"/>
+			<item value="org.eclipse.jdt.ui.JavaSearchPage"/>
+			<item value="org.eclipse.pde.internal.ui.search.SearchPage"/>
+		</list>
+	</section>
+	<section name="TextSearchPage">
+		<item key="CASE_SENSITIVE" value="false"/>
+		<item key="REG_EX_SEARCH" value="false"/>
+		<item key="WHOLE_WORD" value="false"/>
+		<item key="SEARCH_DERIVED" value="false"/>
+		<item key="SEARCH_IN_BINARIES" value="false"/>
+		<item key="HISTORY_SIZE" value="2"/>
+		<section name="HISTORY0">
+			<item key="ignoreCase" value="true"/>
+			<item key="isRegExSearch" value="false"/>
+			<item key="isWholeWord" value="false"/>
+			<item key="textPattern" value="id=&quot;viewResolver&quot;"/>
+			<item key="scope" value="0"/>
+			<list key="fileNamePatterns">
+				<item value="*.java"/>
+				<item value="*.png"/>
+				<item value="*.eslintrc"/>
+				<item value="*.tagx"/>
+				<item value="*.gradle"/>
+				<item value="*.tracwiki"/>
+				<item value="*.shtml"/>
+				<item value="*.doc"/>
+				<item value="*.workingsets"/>
+				<item value="*.product"/>
+				<item value="*.patch"/>
+				<item value="*.adoc"/>
+				<item value="*.sass"/>
+				<item value="*.target"/>
+				<item value="*.jsf"/>
+				<item value="*.macrodef"/>
+				<item value="*.markdown"/>
+				<item value="*.jspf"/>
+				<item value="*.htpl"/>
+				<item value="*.wsil"/>
+				<item value="*.diff"/>
+				<item value="*.jspx"/>
+				<item value="*.jar"/>
+				<item value="*.xml"/>
+				<item value="*.xmi"/>
+				<item value="*.tagf"/>
+				<item value="*.zip"/>
+				<item value="*.ent"/>
+				<item value="*.ant"/>
+				<item value="*.prefs"/>
+				<item value="*.json"/>
+				<item value="*.ddl"/>
+				<item value="*.tld"/>
+				<item value="*.xhtml"/>
+				<item value="*.mod"/>
+				<item value="*.css"/>
+				<item value="*.class"/>
+				<item value="*.xsd"/>
+				<item value="*.gif"/>
+				<item value="*.jardesc"/>
+				<item value="*.xsl"/>
+				<item value="*.xslt"/>
+				<item value="*.e4xmi"/>
+				<item value="*.sql"/>
+				<item value="*.jtpl"/>
+				<item value="*.setup"/>
+				<item value="*.yml"/>
+				<item value="*.tsx"/>
+				<item value="*.ad"/>
+				<item value="*.asciidoc"/>
+				<item value="*.class without source"/>
+				<item value="*.dtd"/>
+				<item value="*.htm"/>
+				<item value="*.jpage"/>
+				<item value="*.jpg"/>
+				<item value="*.properties"/>
+				<item value="*.wsimsg"/>
+				<item value="*.confluence"/>
+				<item value="*.yaml"/>
+				<item value="*.xjb"/>
+				<item value="*.html"/>
+				<item value="*.mediawiki"/>
+				<item value="*.dbk"/>
+				<item value="*.mdtext"/>
+				<item value="*.sqlpage"/>
+				<item value="*.tagxf"/>
+				<item value="*.dita"/>
+				<item value="*.scss"/>
+				<item value="*.js"/>
+				<item value="*.emof"/>
+				<item value="*.bmp"/>
+				<item value="*.ecore2xml"/>
+				<item value="*.tag"/>
+				<item value="*.ecore2ecore"/>
+				<item value="*.genmodel"/>
+				<item value="*.exec"/>
+				<item value="*.ico"/>
+				<item value="*.less"/>
+				<item value="*.shtm"/>
+				<item value="*.textile"/>
+				<item value="*.twiki"/>
+				<item value="*.ecore"/>
+				<item value="*.wsdl"/>
+				<item value="*.svg"/>
+				<item value="*.md"/>
+				<item value="*.jpeg"/>
+				<item value="*.txt"/>
+				<item value="*.wsdd"/>
+				<item value="*.ts"/>
+				<item value="*.server"/>
+				<item value="*.jsp"/>
+				<item value="*.docx"/>
+				<item value="*.log"/>
+				<item value="*.jsonc"/>
+				<item value="*.exsd"/>
+				<item value="*.pom"/>
+				<item value="*.jsx"/>
+				<item value="*.jsv"/>
+				<item value="*.wml"/>
+				<item value="*.ditamap"/>
+			</list>
+			<list key="workingSets">
+			</list>
+		</section>
+		<section name="EXTENSIONS">
+			<item key="0" value="*.ad, *.adoc, *.ant, *.asciidoc, *.bmp, *.class, *.class without source, *.confluence, *.css, *.dbk, *.ddl, *.diff, *.dita, *.ditamap, *.doc, *.docx, *.dtd, *.e4xmi, *.ecore, *.ecore2ecore, *.ecore2xml, *.emof, *.ent, *.eslintrc, *.exec, *.exsd, *.genmodel, *.gif, *.gradle, *.htm, *.html, *.htpl, *.ico, *.jar, *.jardesc, *.java, *.jpage, *.jpeg, *.jpg, *.js, *.jsf, *.json, *.jsonc, *.jsp, *.jspf, *.jspx, *.jsv, *.jsx, *.jtpl, *.less, *.log, *.macrodef, *.markdown, *.md, *.mdtext, *.mediawiki, *.mod, *.patch, *.png, *.pom, *.prefs, *.product, *.properties, *.sass, *.scss, *.server, *.setup, *.shtm, *.shtml, *.sql, *.sqlpage, *.svg, *.tag, *.tagf, *.tagx, *.tagxf, *.target, *.textile, *.tld, *.tracwiki, *.ts, *.tsx, *.twiki, *.txt, *.wml, *.workingsets, *.wsdd, *.wsdl, *.wsil, *.wsimsg, *.xhtml, *.xjb, *.xmi, *.xml, *.xsd, *.xsl, *.xslt, *.yaml, *.yml, *.zip"/>
+			<item key="1" value="*.java"/>
+		</section>
+		<section name="HISTORY1">
+			<item key="ignoreCase" value="true"/>
+			<item key="isRegExSearch" value="false"/>
+			<item key="isWholeWord" value="false"/>
+			<item key="textPattern" value="viewResolver"/>
+			<item key="scope" value="0"/>
+			<list key="fileNamePatterns">
+				<item value="*.ad"/>
+				<item value="*.adoc"/>
+				<item value="*.ant"/>
+				<item value="*.asciidoc"/>
+				<item value="*.bmp"/>
+				<item value="*.class"/>
+				<item value="*.class without source"/>
+				<item value="*.confluence"/>
+				<item value="*.css"/>
+				<item value="*.dbk"/>
+				<item value="*.ddl"/>
+				<item value="*.diff"/>
+				<item value="*.dita"/>
+				<item value="*.ditamap"/>
+				<item value="*.doc"/>
+				<item value="*.docx"/>
+				<item value="*.dtd"/>
+				<item value="*.e4xmi"/>
+				<item value="*.ecore"/>
+				<item value="*.ecore2ecore"/>
+				<item value="*.ecore2xml"/>
+				<item value="*.emof"/>
+				<item value="*.ent"/>
+				<item value="*.eslintrc"/>
+				<item value="*.exec"/>
+				<item value="*.exsd"/>
+				<item value="*.genmodel"/>
+				<item value="*.gif"/>
+				<item value="*.gradle"/>
+				<item value="*.htm"/>
+				<item value="*.html"/>
+				<item value="*.htpl"/>
+				<item value="*.ico"/>
+				<item value="*.jar"/>
+				<item value="*.jardesc"/>
+				<item value="*.java"/>
+				<item value="*.jpage"/>
+				<item value="*.jpeg"/>
+				<item value="*.jpg"/>
+				<item value="*.js"/>
+				<item value="*.jsf"/>
+				<item value="*.json"/>
+				<item value="*.jsonc"/>
+				<item value="*.jsp"/>
+				<item value="*.jspf"/>
+				<item value="*.jspx"/>
+				<item value="*.jsv"/>
+				<item value="*.jsx"/>
+				<item value="*.jtpl"/>
+				<item value="*.less"/>
+				<item value="*.log"/>
+				<item value="*.macrodef"/>
+				<item value="*.markdown"/>
+				<item value="*.md"/>
+				<item value="*.mdtext"/>
+				<item value="*.mediawiki"/>
+				<item value="*.mod"/>
+				<item value="*.patch"/>
+				<item value="*.png"/>
+				<item value="*.pom"/>
+				<item value="*.prefs"/>
+				<item value="*.product"/>
+				<item value="*.properties"/>
+				<item value="*.sass"/>
+				<item value="*.scss"/>
+				<item value="*.server"/>
+				<item value="*.setup"/>
+				<item value="*.shtm"/>
+				<item value="*.shtml"/>
+				<item value="*.sql"/>
+				<item value="*.sqlpage"/>
+				<item value="*.svg"/>
+				<item value="*.tag"/>
+				<item value="*.tagf"/>
+				<item value="*.tagx"/>
+				<item value="*.tagxf"/>
+				<item value="*.target"/>
+				<item value="*.textile"/>
+				<item value="*.tld"/>
+				<item value="*.tracwiki"/>
+				<item value="*.ts"/>
+				<item value="*.tsx"/>
+				<item value="*.twiki"/>
+				<item value="*.txt"/>
+				<item value="*.wml"/>
+				<item value="*.workingsets"/>
+				<item value="*.wsdd"/>
+				<item value="*.wsdl"/>
+				<item value="*.wsil"/>
+				<item value="*.wsimsg"/>
+				<item value="*.xhtml"/>
+				<item value="*.xjb"/>
+				<item value="*.xmi"/>
+				<item value="*.xml"/>
+				<item value="*.xsd"/>
+				<item value="*.xsl"/>
+				<item value="*.xslt"/>
+				<item value="*.yaml"/>
+				<item value="*.yml"/>
+				<item value="*.zip"/>
+			</list>
+			<list key="workingSets">
+			</list>
+		</section>
+	</section>
+	<section name="SearchDialog.ScopePart">
+		<item key="scope" value="0"/>
+	</section>
+	<section name="DialogBounds_SearchDialog">
+		<item key="DIALOG_X_ORIGIN" value="645"/>
+		<item key="DIALOG_Y_ORIGIN" value="156"/>
+		<item key="DIALOG_WIDTH" value="649"/>
+		<item key="DIALOG_HEIGHT" value="553"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="">
+		<item key="org.eclipse.search.resultpage.limit" value="1000"/>
+	</section>
+	<section name="org.eclipse.search.text.FileSearchResultPage">
+		<item key="org.eclipse.search.resultpage.limit" value="1000"/>
+	</section>
+</section>
